@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/app.svg</file>
+        <file>icons/trophy.png</file>
+    </qresource>
+</RCC> 
